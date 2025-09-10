@@ -1,0 +1,23 @@
+export const nameBand = 'FLORA CASH';
+export const nameSongs = [
+	"YOU'RE SOMEBODY ELSE", /*1*/
+	"WAR", /*2*/
+	"SHOULD'VE DRESSED FOR THE EVENT", /*3*/
+	"JUST WANNA FEEL YOU", /*4*/
+	"LIKE NO ONE COULD", /*5*/
+	"MY EX WOULD'VE LEFT BY NOW", /*6*/
+	"MORNING COMES", /*7*/
+	"BABY I LOVE YOU", /*8*/
+	"THE NIGHT IS YOUNG", /*9*/
+	"I'M TIRED", /*10*/
+	"HOLLY WATER", /*11*/
+	"WHEN I WAS YOUNG", /*12*/
+	"DON'T YOU LOOK AT ME THAT WAY", /*13*/
+	"OVER", /*14*/
+	"PRETTY THINGS, SPOTLIGHT AND SLEEP", /*15*/
+	"HOLY GHOST AND HALLELUJAH", /*16*/
+	"I TELL MYSELF LIES", /*17*/
+	"TIME MACHINE", /*18*/
+	"YOU’RE A STAR, BABY", /*19*/
+	"FLERS", /*20*/
+]
